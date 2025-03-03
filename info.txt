@@ -1,0 +1,15 @@
+ 
+ Name:StreetXpress
+ 
+ Colors:
+ Dark Navy (#1A1A2E) – Strong and stylish background.
+ Neon Orange (#FF5733) – Bold, attention-grabbing.
+ Cool Cyan (#17C3B2) – Adds balance, modern contrast, and a fresh look.
+ White (#FFFFFF) – Keeps everything readable and clean.
+
+
+
+
+ Font Family:
+ Primary Font: Poppins (Modern, geometric, stylish)
+ Secondary Font: Montserrat (Clean, sleek headings)
